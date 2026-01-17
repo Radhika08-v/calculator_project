@@ -1,0 +1,22 @@
+#lay{
+  border: 1px solid rgb(220, 211, 211);
+  border-radius: 10px 10px 10px 10px;
+  text-align: center;
+  width:200px;
+}
+#display{
+   margin: 10px;
+   width: 85%;
+}
+.in{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+ .button-style{
+  width:40px;
+  height:40px;
+  text-align: center;
+  margin:3px;
+  
+ }
